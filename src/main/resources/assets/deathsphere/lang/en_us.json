@@ -1,0 +1,5 @@
+{
+  "block.deathsphere.death_sphere": "Death Sphere",
+  "container.deathsphere.death_sphere": "Death Sphere",
+  "message.deathsphere.created": "Your items are in a Death Sphere at %s %s %s"
+}

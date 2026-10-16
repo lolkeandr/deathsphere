@@ -1,0 +1,5 @@
+{
+  "block.deathsphere.death_sphere": "Сфера смерти",
+  "container.deathsphere.death_sphere": "Сфера смерти",
+  "message.deathsphere.created": "Твои вещи в сфере смерти: %s %s %s"
+}

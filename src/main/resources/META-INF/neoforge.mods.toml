@@ -1,0 +1,23 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "deathsphere"
+version = "${mod_version}"
+displayName = "Death Sphere"
+description = '''После смерти игрока на месте смерти появляется сфера-хранилище с его вещами. Когда вещи забраны, сфера исчезает.'''
+
+[[dependencies.deathsphere]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.deathsphere]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"

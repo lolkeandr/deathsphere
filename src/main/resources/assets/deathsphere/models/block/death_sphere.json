@@ -1,0 +1,158 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "all": "deathsphere:block/death_sphere",
+    "particle": "deathsphere:block/death_sphere"
+  },
+  "elements": [
+    {
+      "from": [
+        3,
+        3,
+        3
+      ],
+      "to": [
+        13,
+        13,
+        13
+      ],
+      "faces": {
+        "north": {
+          "texture": "#all"
+        },
+        "south": {
+          "texture": "#all"
+        },
+        "east": {
+          "texture": "#all"
+        },
+        "west": {
+          "texture": "#all"
+        },
+        "up": {
+          "texture": "#all"
+        },
+        "down": {
+          "texture": "#all"
+        }
+      }
+    },
+    {
+      "from": [
+        2,
+        5,
+        5
+      ],
+      "to": [
+        14,
+        11,
+        11
+      ],
+      "faces": {
+        "north": {
+          "texture": "#all"
+        },
+        "south": {
+          "texture": "#all"
+        },
+        "east": {
+          "texture": "#all"
+        },
+        "west": {
+          "texture": "#all"
+        },
+        "up": {
+          "texture": "#all"
+        },
+        "down": {
+          "texture": "#all"
+        }
+      }
+    },
+    {
+      "from": [
+        5,
+        2,
+        5
+      ],
+      "to": [
+        11,
+        14,
+        11
+      ],
+      "faces": {
+        "north": {
+          "texture": "#all"
+        },
+        "south": {
+          "texture": "#all"
+        },
+        "east": {
+          "texture": "#all"
+        },
+        "west": {
+          "texture": "#all"
+        },
+        "up": {
+          "texture": "#all"
+        },
+        "down": {
+          "texture": "#all"
+        }
+      }
+    },
+    {
+      "from": [
+        5,
+        5,
+        2
+      ],
+      "to": [
+        11,
+        11,
+        14
+      ],
+      "faces": {
+        "north": {
+          "texture": "#all"
+        },
+        "south": {
+          "texture": "#all"
+        },
+        "east": {
+          "texture": "#all"
+        },
+        "west": {
+          "texture": "#all"
+        },
+        "up": {
+          "texture": "#all"
+        },
+        "down": {
+          "texture": "#all"
+        }
+      }
+    }
+  ],
+  "display": {
+    "gui": {
+      "rotation": [
+        30,
+        45,
+        0
+      ],
+      "scale": 0.9
+    },
+    "ground": {
+      "scale": 0.5,
+      "translation": [
+        0,
+        3,
+        0
+      ]
+    },
+    "fixed": {
+      "scale": 0.9
+    }
+  }
+}
